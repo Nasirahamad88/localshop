@@ -23,7 +23,7 @@ function Navbar() {
       <>
           <section className='flex justify-between mt-2 '>
               <div href="/" className=" px-2 py-2 font-bold text-xl text-black-900 rounded-full bg-slate-300 hover:bg-white">
-                  <div className='flex'><AiOutlineMenuUnfold /> Local-Store
+                  <div className='flex'><AiOutlineMenuUnfold className='flex' /> Local-Store
                 </div>
               </div>
               <div>
