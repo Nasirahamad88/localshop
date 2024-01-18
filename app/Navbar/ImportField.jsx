@@ -5,7 +5,7 @@ function ImportField() {
   const [searchTerm, setSearchTerm] = useState('');
 
   return (
-    <div className="relative flex items-center justify-center md:justify-end mr-4">
+    <div className="w-full relative flex items-center justify-center md:justify-end mr-4">
       <div className="relative w-full max-w-md mr-4">
         <input
           type="text"
